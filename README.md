@@ -1,2 +1,1 @@
-# Test
-编辑一个C#代码
+Console.writeLine("hello wrold")
